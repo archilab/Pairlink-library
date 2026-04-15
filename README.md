@@ -4,11 +4,11 @@ Arduino library for ESP32 controllers to connect to PairLink servers and exchang
 
 PairLink is open source under the MIT License. The library is especially intended to be approachable for education, workshops, teaching labs, and rapid prototyping on ESP32 hardware.
 
-If you are new to Arduino IDE or ESP32 setup, start with the beginner guides:
+If you are new to Arduino IDE or ESP32 setup, start with these in-repo guides:
 
-- [`../../../docs/setup/esp32-library-install.md`](../../../docs/setup/esp32-library-install.md)
-- [`../../../docs/examples/two-device-sensor-actuator.md`](../../../docs/examples/two-device-sensor-actuator.md)
-- [`../../../docs/setup/troubleshooting.md`](../../../docs/setup/troubleshooting.md)
+- [`examples/README.md`](examples/README.md)
+- [`examples/esp32-hello/README.md`](examples/esp32-hello/README.md)
+- [`examples/esp32-pairing-demo/README.md`](examples/esp32-pairing-demo/README.md)
 
 ## Dependencies
 

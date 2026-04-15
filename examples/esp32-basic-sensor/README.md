@@ -4,9 +4,9 @@ A basic sensor node that reads an analog value and publishes it over PairLink.
 
 If you are using PairLink for the first time, read these guides first:
 
-- [`../../../../docs/setup/esp32-library-install.md`](../../../../docs/setup/esp32-library-install.md)
-- [`../../../../docs/examples/two-device-sensor-actuator.md`](../../../../docs/examples/two-device-sensor-actuator.md)
-- [`../../../../docs/setup/troubleshooting.md`](../../../../docs/setup/troubleshooting.md)
+- [`../../README.md`](../../README.md)
+- [`../README.md`](../README.md)
+- [`../esp32-basic-actuator/README.md`](../esp32-basic-actuator/README.md)
 
 ## What It Does
 

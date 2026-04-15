@@ -4,8 +4,8 @@ Minimal one-channel example: one publish, one subscribe, local-only config.
 
 If you are using PairLink for the first time, read these guides first:
 
-- [`../../../docs/setup/esp32-library-install.md`](../../../docs/setup/esp32-library-install.md)
-- [`../../../docs/setup/troubleshooting.md`](../../../docs/setup/troubleshooting.md)
+- [`../../README.md`](../../README.md)
+- [`../README.md`](../README.md)
 
 ## What It Does
 

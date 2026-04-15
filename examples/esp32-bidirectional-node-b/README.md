@@ -8,9 +8,9 @@ Use this sketch together with:
 
 If you are new to PairLink, read these guides first:
 
-- [`../../../../docs/setup/esp32-library-install.md`](../../../../docs/setup/esp32-library-install.md)
-- [`../../../../docs/examples/two-device-bidirectional-multi-io.md`](../../../../docs/examples/two-device-bidirectional-multi-io.md)
-- [`../../../../docs/setup/troubleshooting.md`](../../../../docs/setup/troubleshooting.md)
+- [`../../README.md`](../../README.md)
+- [`../README.md`](../README.md)
+- [`../esp32-bidirectional-node-a/README.md`](../esp32-bidirectional-node-a/README.md)
 
 ## What It Does
 

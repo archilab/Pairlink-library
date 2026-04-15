@@ -1,0 +1,19 @@
+.DS_Store
+**/.DS_Store
+
+# Cursor / local workspace metadata
+.cursor/
+
+# Build artifacts
+build/
+dist/
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+
+# Arduino / PlatformIO local artifacts
+.pio/
+.vscode/

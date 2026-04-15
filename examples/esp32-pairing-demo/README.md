@@ -4,9 +4,9 @@ A demo that shows both publishing and subscribing on a single device. Uses the b
 
 If you are new to PairLink, this is a good first hardware example. You may also want to read:
 
-- [`../../../../docs/setup/esp32-library-install.md`](../../../../docs/setup/esp32-library-install.md)
-- [`../../../../docs/examples/two-device-sensor-actuator.md`](../../../../docs/examples/two-device-sensor-actuator.md)
-- [`../../../../docs/setup/troubleshooting.md`](../../../../docs/setup/troubleshooting.md)
+- [`../../README.md`](../../README.md)
+- [`../README.md`](../README.md)
+- [`../esp32-hello/README.md`](../esp32-hello/README.md)
 
 ## What It Does
 

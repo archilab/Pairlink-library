@@ -4,9 +4,9 @@ A basic actuator that receives values from a paired sensor and controls an LED v
 
 If you are using PairLink for the first time, read these guides first:
 
-- [`../../../../docs/setup/esp32-library-install.md`](../../../../docs/setup/esp32-library-install.md)
-- [`../../../../docs/examples/two-device-sensor-actuator.md`](../../../../docs/examples/two-device-sensor-actuator.md)
-- [`../../../../docs/setup/troubleshooting.md`](../../../../docs/setup/troubleshooting.md)
+- [`../../README.md`](../../README.md)
+- [`../README.md`](../README.md)
+- [`../esp32-basic-sensor/README.md`](../esp32-basic-sensor/README.md)
 
 ## What It Does
 

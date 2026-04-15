@@ -32,8 +32,8 @@ Make sure you already have:
 
 If you still need help with setup, read:
 
-- `[../../../docs/setup/esp32-library-install.md](../../../docs/setup/esp32-library-install.md)`
-- `[../../../docs/setup/local-development.md](../../../docs/setup/local-development.md)`
+- [`../README.md`](../README.md)
+- [`esp32-hello/README.md`](esp32-hello/README.md)
 
 ## Examples At A Glance
 
@@ -49,19 +49,22 @@ If you still need help with setup, read:
 
 ## Recommended First Hardware Tutorial
 
-For the best beginner experience, follow the full walkthrough here:
+For the best beginner experience, start with:
 
-- `[../../../docs/examples/two-device-sensor-actuator.md](../../../docs/examples/two-device-sensor-actuator.md)`
+- [`esp32-basic-sensor/README.md`](esp32-basic-sensor/README.md)
+- [`esp32-basic-actuator/README.md`](esp32-basic-actuator/README.md)
 
 ## Next Step After The Basic Tutorial
 
 When you want to move beyond one sensor and one actuator, continue with:
 
-- `[../../../docs/examples/two-device-bidirectional-multi-io.md](../../../docs/examples/two-device-bidirectional-multi-io.md)`
+- [`esp32-bidirectional-node-a/README.md`](esp32-bidirectional-node-a/README.md)
+- [`esp32-bidirectional-node-b/README.md`](esp32-bidirectional-node-b/README.md)
 
 ## If Something Does Not Work
 
-Use the troubleshooting guide:
+Use these troubleshooting paths:
 
-- `[../../../docs/setup/troubleshooting.md](../../../docs/setup/troubleshooting.md)`
+- Check the "Configuration" sections in each example README
+- Open an issue in this repository with board type, logs, and wiring details
 
